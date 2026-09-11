@@ -551,7 +551,7 @@
         <section class="hero">
             <div class="container">
                 <div class="badge"><i class="fas fa-dharmachakra"></i> SS Rajamouli × Mahesh Babu</div>
-                <h1>Enter the World of<br><span>Rudhra Varanasiiiiiiii</span></h1>
+                <h1>Enter the World of<br><span>Rudhra Varanasiiiiiiii Inspecting By Vishnu Preetham</span></h1>
                 <p>Official-inspired merch, posters & collectibles from the epic adventure spanning Varanasi, Africa & beyond. April 7, 2027.</p>
                 <div class="actions">
                     <button class="btn btn-primary" id="shopNow"><i class="fas fa-arrow-right"></i> Shop Collection</button>
